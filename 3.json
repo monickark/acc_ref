@@ -1,5 +1,7 @@
 {      
       "name":"DOG",	  	  
       "description":"ANIMALS",
-      "image":"https://ipfs.infura.io/ipfs/QmcFzuTy4k7eqkcuAuUydbP1XDjqM154W7krM6YAGF1oqu"
+      "image":"https://ipfs.infura.io/ipfs/QmcFzuTy4k7eqkcuAuUydbP1XDjqM154W7krM6YAGF1oqu",
+      "seller_fee_basis_points":200,
+      "fee_recipient":"0x78b10c0791b87c9Df107E6Ace0Ae00CCE4407f45"
 }
