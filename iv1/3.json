@@ -2,6 +2,7 @@
       "name":"COLOR RING",	  	  
       "description":"RING",
       "image":"https://ipfs.infura.io/ipfs/QmewqVVf43MwgA3X5NgCCceiZF9fHdghF7AGXPyNqSvWSp",
-      "seller_fee_basis_points":200,
-      "fee_recipient":"0x78b10c0791b87c9Df107E6Ace0Ae00CCE4407f45"
+      "artist":"Sam Daniel",
+      "royalty_percentage":3,
+      "tags":"colour, animal, climate"
 }
